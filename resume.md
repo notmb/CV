@@ -1,22 +1,25 @@
 # ОЛЬГА СИМЧИЧ
-## Junior Frontend Developer · React / TypeScript
+
+## Full Stack Developer Intern
 
 +38063887012 · symchynya@gmail.com · [github.com/notmb](https://github.com/notmb)
 
-Frontend-розробниця з практичним досвідом самостійної розробки освітнього застосунку на React, TypeScript і Firebase. Створюю інтерфейси для роботи з математичними тестами: від створення завдань до автоматичної перевірки відповідей і перегляду результатів.
+Розробниця з практичним досвідом створення EdTech-застосунку на React, TypeScript та Firebase, який використовується вчителькою для створення й перевірки математичних тестів. Маю вищу математичну освіту, сильні аналітичні навички та досвід розв'язання алгоритмічних задач. Зацікавлена в розвитку у Full Stack розробці та роботі над реальними продуктами.
 
 ## Технічні навички
 
 - **Frontend:** JavaScript (ES6+), TypeScript, React, HTML, CSS, Tailwind CSS.
 - **Керування станом:** useState, useImmer, Context API.
-- **Firebase:** Authentication, Firestore, Storage.
+- **Backend / DB:** Firebase, Node.js (basics), PostgreSQL (basics).
+- **OOP:** OOP fundamentals.
 - **Робота з даними:** основи HTTP, JSON.
 - **Інструменти:** Git, GitHub, Vite, Chrome DevTools (Console, Network), MathJax.
-- **AI-інструменти:** OpenAI Codex, ChatGPT.
+- **AI Tools:** ChatGPT, Codex (debugging, code analysis, problem-solving).
 
 ## Проєкти
 
 ### Math Test Platform
+
 Освітній застосунок для створення та проходження математичних тестів.
 
 [GitHub](https://github.com/notmb/MathTestReact) · [Демо](https://notmb.github.io/MathTestReact/account/login)
